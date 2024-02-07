@@ -1,0 +1,23 @@
+body{
+    background-color:khaki;
+    font-family: 'Single Day', cursive;
+    color: white;
+}
+
+.heading{
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px !important;
+}
+
+#score{
+    float: right;
+    margin-right: 300px;
+}
+
+#time{
+    float: left;
+    margin-left: 300px;
+}
